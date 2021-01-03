@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="origin_array">
+       <!-- <item><b>MY LOCATION</b></item> -->
+        <item>IIIT Gate</item>
+        <item>OBH(OLD Boys Hostel)</item>
+        <item>NBH(New Boys Hostel)</item>
+        <item>Parijaat(Girls Hostel)</item>
+        <item>Bakul Nivas</item>
+        <item>Nilgiri</item>
+        <item>T-HUB</item>
+        <item>Himalaya Building</item>
+        <item>Vindhya Building</item>
+        <item>KCIS(Kohli Centre on Intelligent system)</item>
+        <item>Faculty quarters(Buddha Nivas)</item>
+        <item>Guest House(Atithi Nivas)</item>
+
+        <item>EERC</item>
+        <item>SBH</item>
+        <item>amphi theatre</item>
+        <item>basketball court</item>
+        <item>akka canteen</item>
+        <item>NBH mess</item>
+        <item>Sports room</item>
+        <item>felicity ground</item>
+        <item>Guest house</item>
+        <item>IIIT Tree</item>
+        <item>Electrical department</item>
+        <item>Vindhya canteen and juice centre</item>
+        <item>Hello Curry</item>
+        <item>Talent Sprint</item>
+        <item>Directors office</item>
+        <item>CSTAR Entrance</item>
+        <item>Library</item>
+        <item>School and aarogaya centre</item>
+
+    </string-array>
+
+
+    <string-array name="destination_array">
+
+        <item>OBH(OLD Boys Hostel)</item>
+        <item>IIIT Gate</item>
+        <item>NBH(New Boys Hostel)</item>
+        <item>Parijaat(Girls Hostel)</item>
+        <item>Bakul Nivas</item>
+        <item>Nilgiri</item>
+        <item>T-HUB</item>
+        <item>Himalaya Building</item>
+        <item>Vindhya Building</item>
+        <item>KCIS(Kohli Centre on Intelligent system)</item>
+        <item>Faculty quarters(Buddha Nivas)</item>
+        <item>Guest House(Atithi Nivas)</item>
+
+        <item>EERC</item>
+        <item>SBH</item>
+        <item>amphi theatre</item>
+        <item>basketball court</item>
+        <item>akka canteen</item>
+        <item>NBH mess</item>
+        <item>felicity ground</item>
+        <item>Guest house</item>
+        <item>IIIT Tree</item>
+        <item>Electrical department</item>
+        <item>Vindhya canteen and juice centre</item>
+        <item>Hello Curry</item>
+        <item>Talent Sprint</item>
+        <item>Directors office</item>
+        <item>CSTAR Entrance</item>
+        <item>Library</item>
+        <item>School and aarogaya centre</item>
+    </string-array>
+</resources>
